@@ -199,7 +199,7 @@ JEP is stewarded by **HJS Foundation LTD** (Singapore CLG), a non-profit organiz
 ## 📬 Contact
 
 For Korea-specific inquiries:
-- **Email**: korea@humanjudgment.org
+- **Email**: signal@humanjudgment.org
 - **GitHub**: [hjs-spec/jep-kr-solutions](https://github.com/hjs-spec/jep-kr-solutions)
 - **Support**: 72-hour response for general inquiries, 14 days for complex legal questions 
 
